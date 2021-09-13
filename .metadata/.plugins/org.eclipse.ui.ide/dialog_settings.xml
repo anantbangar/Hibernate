@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\My Work\Advanced Java Programs\SERVLET\S02RForm"/>
+			<item value="D:\My Work\Advanced Java Programs\SERVLET\S01ztest2"/>
+			<item value="D:\My Work\Advanced Java Programs\HIBERNATE\HBRNT17CriteriaAPIandRestrictions"/>
+			<item value="D:\My Work\Advanced Java Programs\HIBERNATE\HBRNT16MappingUsingXml"/>
+			<item value="D:\My Work\Advanced Java Programs\HIBERNATE\HBRNT15CachingFirstAndSecondLevel"/>
+			<item value="D:\My Work\Advanced Java Programs\HIBERNATE\HBRNT14Cascading"/>
+			<item value="D:\My Work\Advanced Java Programs\HIBERNATE\HBRNT13NativeSql"/>
+			<item value="D:\My Work\Advanced Java Programs\HIBERNATE\HBRNT12Pagination"/>
+			<item value="D:\My Work\Advanced Java Programs\HIBERNATE\HBRNT11HQLQueries"/>
+			<item value="D:\My Work\Advanced Java Programs\HIBERNATE\HBRNT10ObjectsStates"/>
+			<item value="D:\My Work\Advanced Java Programs\HIBERNATE\HBRNT09FetchingLazyEager"/>
+			<item value="D:\My Work\Advanced Java Programs\HIBERNATE\HBRNT08AllMappings"/>
+			<item value="D:\My Work\Advanced Java Programs\HIBERNATE\HBRNT07EmbeddingObjects"/>
+			<item value="D:\My Work\Advanced Java Programs\HIBERNATE\HBRNT06FetchingObjGetAndLoadMethod"/>
+			<item value="D:\My Work\Advanced Java Programs\HIBERNATE\HBRNT05AllAnnotations"/>
+			<item value="D:\My Work\Advanced Java Programs\HIBERNATE\HBRNT04FirstHibernateProgram"/>
+			<item value="D:\My Work\Advanced Java Programs\HIBERNATE\HBRNT03ConfiguringHibernate"/>
+			<item value="D:\My Work\Advanced Java Programs\HIBERNATE\HBRNT02AddingDependenciesWithoutMaven"/>
+			<item value="D:\My Work\Advanced Java Programs\HIBERNATE\HBRNT01AddingDependencies"/>
+			<item value="D:\My Work\Advanced Java Programs\HIBERNATE\HBRNT18WebAppUsingDynamicWebProject&amp;ConvrtToMaven"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\My Work\Advanced Java Programs\SERVLET\S01ztest2"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="619"/>
+		<item key="DIALOG_Y_ORIGIN" value="274"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+</section>
