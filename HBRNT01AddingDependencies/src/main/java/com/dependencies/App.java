@@ -19,7 +19,7 @@ public class App
     		//Connection con=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:orcl","system","system123");
     		
     		Class.forName("com.mysql.cj.jdbc.Driver");
-    		Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/hibernate","root","system@123");
+    		Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/hibernate","root","system123");
     		System.out.println("connection is done.....");
     		
     		Statement stmt=con.createStatement();

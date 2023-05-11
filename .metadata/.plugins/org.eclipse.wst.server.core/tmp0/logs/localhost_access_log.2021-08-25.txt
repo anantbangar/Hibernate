@@ -1,8 +1,0 @@
-127.0.0.1 - - [25/Aug/2021:10:55:37 +0530] "GET / HTTP/1.1" 404 751
-0:0:0:0:0:0:0:1 - - [25/Aug/2021:10:55:39 +0530] "GET /HBRNT18WebAppUsingDynamicWebProject&ConvrtToMaven/ HTTP/1.1" 200 580
-0:0:0:0:0:0:0:1 - - [25/Aug/2021:10:55:40 +0530] "GET /favicon.ico HTTP/1.1" 404 762
-0:0:0:0:0:0:0:1 - - [25/Aug/2021:10:55:49 +0530] "GET /HBRNT18WebAppUsingDynamicWebProject&ConvrtToMaven/UserFetch? HTTP/1.1" 200 311
-127.0.0.1 - - [25/Aug/2021:11:11:02 +0530] "GET / HTTP/1.1" 404 751
-0:0:0:0:0:0:0:1 - - [25/Aug/2021:11:11:03 +0530] "GET /HBRNT18WebAppUsingDynamicWebProject&ConvrtToMaven/ HTTP/1.1" 200 580
-0:0:0:0:0:0:0:1 - - [25/Aug/2021:11:11:12 +0530] "GET /HBRNT18WebAppUsingDynamicWebProject&ConvrtToMaven/UserFetch? HTTP/1.1" 200 311
-127.0.0.1 - - [25/Aug/2021:17:34:30 +0530] "GET / HTTP/1.1" 404 751

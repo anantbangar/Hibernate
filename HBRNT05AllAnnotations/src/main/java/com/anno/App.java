@@ -12,7 +12,7 @@ import org.hibernate.cfg.Configuration;
 
 public class App 
 {
-    public static void main( String[] args ) throws IOException
+    public static void main(String[] args ) throws IOException
     {
         Configuration cfg=new Configuration();
         cfg.configure("hibernate.cfg.xml");

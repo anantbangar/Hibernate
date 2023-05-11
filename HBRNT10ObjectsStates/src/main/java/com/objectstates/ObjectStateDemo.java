@@ -14,7 +14,7 @@ public class ObjectStateDemo
 		
 		//Transient State : till object not save by session
 		School scl1=new School();
-		scl1.setId(101);
+		scl1.setId(107);
 		scl1.setName("Brahman Vidyalay");
 		scl1.setCity("Thane");
 		

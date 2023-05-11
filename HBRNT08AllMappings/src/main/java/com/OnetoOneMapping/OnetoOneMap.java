@@ -14,19 +14,19 @@ public class OnetoOneMap
 		SessionFactory factory=cfg.buildSessionFactory();
 		
 		Question ques1=new Question();
-		ques1.setQuesId(01);
+		ques1.setQuesId(03);
 		ques1.setQues("what is java");
 		
 		Question ques2=new Question();
-		ques2.setQuesId(02);
+		ques2.setQuesId(04);
 		ques2.setQues("what is c++");
 		
 		Answer ans1=new Answer();
-		ans1.setAnsId(100);
+		ans1.setAnsId(300);
 		ans1.setAns("java is secure programming lanuage");
 		
 		Answer ans2=new Answer();
-		ans2.setAnsId(200);
+		ans2.setAnsId(400);
 		ans2.setAns("c++ is oop programming lanuage");
 		
 		ques1.setAns(ans1);
