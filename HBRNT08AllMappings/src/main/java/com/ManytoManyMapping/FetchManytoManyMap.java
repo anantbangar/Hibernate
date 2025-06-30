@@ -31,8 +31,8 @@ public class FetchManytoManyMap
 			System.out.println("Pid="+p.getPid()+" Pname="+p.getPname());
 		}
 		
-		Project proj1=(Project)session.get(Project.class,1000);
-		Project proj2=(Project)session.get(Project.class,1001);
+		Project proj1=(Project)session.get(Project.class,100);
+		Project proj2=(Project)session.get(Project.class,101);
 		
 		System.out.println("Info of Project with id=100");
 		System.out.println("Pid="+proj1.getPid()+" Pname="+proj1.getPname());

@@ -16,7 +16,7 @@ public class App
         Session session = factory.openSession();
         
         Question1 q1=new Question1();
-        q1.setQuesId(4);
+        q1.setQuesId(9);
         q1.setQues("what is cascading");
         
         Answer1 ans1=new Answer1(800,"it is imp in hibernate",q1);
