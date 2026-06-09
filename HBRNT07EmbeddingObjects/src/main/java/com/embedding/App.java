@@ -14,11 +14,11 @@ public class App
     	SessionFactory factory=cfg.buildSessionFactory();
     	
     	Student1 st1=new Student1();
-    	st1.setId(111);
+    	st1.setId(113);
     	st1.setName("anant");
     	
     	Student1 st2=new Student1();
-    	st2.setId(112);
+    	st2.setId(114);
     	st2.setName("shailoo");
     	
     	Certificate certi1=new Certificate("c","3 months");

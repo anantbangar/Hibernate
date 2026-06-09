@@ -14,7 +14,7 @@ public class ObjectStateDemo
 		
 		//Transient State : till object not save by session
 		School scl1=new School();
-		scl1.setId(109);
+		scl1.setId(110);
 		scl1.setName("Brahman Vidyalay");
 		scl1.setCity("Thane");
 		
@@ -25,7 +25,7 @@ public class ObjectStateDemo
 		session.save(scl1);
 		
 		//before commit, you can change object parameters
-		scl1.setName("Samarth Vidyalay"); 
+		scl1.setName("renu Vidyalay"); 
 		
 		tx.commit();
 		session.close();

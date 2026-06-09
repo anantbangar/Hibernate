@@ -1,5 +1,6 @@
 package com.embedding;
 
+import javax.persistence.Embedded;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
@@ -9,6 +10,8 @@ public class Student1
 	@Id
 	private int id;
 	private String name;
+	
+	@Embedded
 	private Certificate certi;
 	
 	public Student1()
